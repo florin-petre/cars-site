@@ -1,0 +1,33 @@
+header {
+	text-align: center;
+	width: 100%;
+	float: left;
+	background-color: #354F52;
+    padding: 1em 0 0 0;
+    margin: 0 0 2em 0;
+}
+
+#logo {
+	
+}
+
+#wrapper {
+	/* responsiveness */
+	max-width: 940px;
+	margin: 0 auto;
+	padding: 0 5%;
+}
+
+section {
+	text-align: center;
+}
+
+/*
+
+comanda: sus dreapta jos stanga;
+comanda: sus-jos dreapta-stanga;
+comanda: toate;
+
+em
+
+*/
