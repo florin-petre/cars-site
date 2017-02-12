@@ -1,1 +1,1 @@
-This is a test site. PLease don't use it.
+This is a test site. Please don't use it.
